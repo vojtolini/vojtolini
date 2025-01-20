@@ -7,4 +7,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JS API
 - 🌱 I’m currently learning UML and JS
-- 😄 Pronouns: Adapter Jack męski do Jack żeński
